@@ -30,6 +30,9 @@ Add the item to your **qb-core/shared/item.lua**
 
 For move the images from images folder to your inventory folder **qb-inventory/html/images**
 
+## Preview
+- [Preview](https://youtu.be/KkcHgdikVZE)
+
 ## Discord
 - [Join Discord](https://discord.gg/XpdWyyT4Nm)
 
